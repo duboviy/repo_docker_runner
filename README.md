@@ -14,5 +14,5 @@ To install project execute `pip install git+https://github.com/duboviy/repo_dock
 
 ## Usage
 
-- Run `$ repo-runner --help` to see available options
-- Run `$ repo-runner` to execute with default parameters
+- Run `$ repo_docker_runner --help` to see available options
+- Run `$ repo_docker_runner` to execute with default parameters
